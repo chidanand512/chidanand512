@@ -27,35 +27,6 @@
 
 ## 🧑‍💻 Who Am I?
 
-```python
-class ChidanandGowda:
-
-    role = "Aspiring AI & Cloud Engineer"
-
-    education = "MCA | Sapthagiri NPS University"
-
-    interests = [
-        "Artificial Intelligence",
-        "Cloud Computing",
-        "Python Development",
-        "Data Engineering",
-        "Automation",
-        "Backend Development"
-    ]
-
-    mindset = "Learn → Build → Deploy → Improve"
-
-    currently_learning = [
-        "AI & Machine Learning",
-        "Cloud Technologies",
-        "Advanced Python",
-        "Data Engineering",
-        "Application Deployment"
-    ]
-
-    goal = "Build intelligent and scalable real-world systems"
-```
-
 I'm an **MCA student and Python developer** who enjoys exploring how technology can be used to solve real-world problems.
 
 My journey currently sits at the intersection of:
@@ -115,20 +86,20 @@ I'm particularly interested in building systems where **AI meets scalable cloud 
                  │   DATA / INPUT   │
                  └────────┬─────────┘
                           ↓
-             ┌────────────────────────┐
-             │     PYTHON / AI        │
-             │   Processing & Logic   │
-             └───────────┬────────────┘
-                         ↓
-             ┌────────────────────────┐
-             │       REST API         │
-             └───────────┬────────────┘
-                         ↓
-             ┌────────────────────────┐
-             │     ☁️ CLOUD            │
-             │ Deployment & Scaling   │
-             └───────────┬────────────┘
-                         ↓
+              ┌────────────────────────┐
+              │     PYTHON / AI        │
+              │   Processing & Logic   │
+              └───────────┬────────────┘
+                          ↓
+              ┌────────────────────────┐
+              │       REST API         │
+              └───────────┬────────────┘
+                          ↓
+              ┌────────────────────────┐
+              │        CLOUD           │
+              │ Deployment & Scaling   │
+              └───────────┬────────────┘
+                          ↓
                  ┌──────────────────┐
                  │  REAL SOLUTION   │
                  └──────────────────┘
@@ -221,17 +192,11 @@ During my internship, I worked with:
 
 # 🎓 Education
 
-### 🎓 Master of Computer Applications
+### Master of Computer Applications
 
 **Sapthagiri NPS University — Bangalore**
 
 `2025 – 2027` | **CGPA: 8.7**
-
-### 🎓 Bachelor of Computer Applications
-
-**B.S. Channabasappa First Grade College — Davangere**
-
-`2022 – 2025` | **CGPA: 8.0**
 
 ---
 
@@ -266,47 +231,10 @@ Problem Solving→ Turn ideas into solutions
 Building       → Create real projects
 Deployment     → Take projects beyond localhost
 Improvement    → Keep learning
+---
 ```
 
 > 💡 **I don't want to just use technology. I want to understand it, build with it, and eventually engineer solutions around it.**
-
----
-
-# 🎯 2026 Learning Roadmap
-
-### Phase 01 — Strong Foundations
-
-* [x] Python
-* [x] SQL
-* [x] Git & GitHub
-* [x] Backend Fundamentals
-* [x] REST APIs
-
-### Phase 02 — AI Engineering
-
-* [ ] Machine Learning
-* [ ] AI APIs
-* [ ] LLM Applications
-* [ ] RAG Systems
-* [ ] AI Agents
-* [ ] Model Integration
-
-### Phase 03 — Cloud Engineering
-
-* [ ] AWS / Azure
-* [ ] Linux
-* [ ] Docker
-* [ ] CI/CD
-* [ ] Cloud Databases
-* [ ] Cloud Deployment
-
-### Phase 04 — AI + Cloud
-
-* [ ] Deploy AI applications
-* [ ] Build scalable APIs
-* [ ] Create AI pipelines
-* [ ] Monitor applications
-* [ ] Build production-ready AI systems
 
 ---
 
