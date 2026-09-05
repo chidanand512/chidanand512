@@ -1,241 +1,179 @@
-# 👋 Hey, I'm Chidanand Gowda
+# Hi 👋, I'm Chidanand Gowda
 
-### 🚀 Aspiring AI & Cloud Engineer | Python Developer | Tech Enthusiast
+### 🚀 Aspiring AI & Cloud Engineer | Python Developer | Data & Automation Enthusiast
+
+<p align="left">
+  <a href="https://github.com/chidanand512">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chidanand-gowda-a15b0928b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an **MCA student** passionate about building intelligent, scalable, and practical software solutions.
+
+My current focus is growing toward **AI Engineering and Cloud Engineering**, with a strong foundation in Python, SQL, data analysis, backend development, and automation.
+
+I enjoy turning real-world problems into technology-driven solutions — from **AI-enabled applications and data validation workflows to database-driven web applications and Python automation**.
+
+* 🎓 MCA Student — Sapthagiri NPS University
+* 💻 Python Developer with internship experience
+* 🤖 Interested in Artificial Intelligence & AI-driven systems
+* ☁️ Aspiring Cloud Engineer
+* 📊 Interested in Data Analysis & Data Engineering
+* 🔧 Building backend applications and automation workflows
+* 🧠 Strong interest in problem solving and debugging
+* 🏆 Best Performer — Python Developer Internship
+* 📍 Bangalore, Karnataka, India
+
+---
+
+## 🚀 My Career Direction
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🤖 AI        ☁️ CLOUD        🐍 PYTHON        📊 DATA      │
-│                                                             │
-│   BUILDING • LEARNING • EXPERIMENTING • DEPLOYING            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+Python Development
+        ↓
+Backend & APIs
+        ↓
+Data & Automation
+        ↓
+Artificial Intelligence
+        ↓
+Cloud Engineering
+        ↓
+AI + Cloud Solutions
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+AI+%26+Cloud+Engineer;Python+Developer;Data+%26+Automation+Enthusiast;Building+Intelligent+Applications;Always+Learning+%7C+Always+Building" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/chidanand512">
-    <img src="https://img.shields.io/github/followers/chidanand512?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=chidanand512&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+My goal is to become an **AI & Cloud Engineer** capable of designing, developing, deploying, and maintaining intelligent applications in real-world environments.
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 🛠️ Tech Stack
 
-```python
-class ChidanandGowda:
-
-    role = "Aspiring AI & Cloud Engineer"
-
-    education = "MCA | Sapthagiri NPS University"
-
-    interests = [
-        "Artificial Intelligence",
-        "Cloud Computing",
-        "Python Development",
-        "Data Engineering",
-        "Automation",
-        "Backend Development"
-    ]
-
-    mindset = "Learn → Build → Deploy → Improve"
-
-    currently_learning = [
-        "AI & Machine Learning",
-        "Cloud Technologies",
-        "Advanced Python",
-        "Data Engineering",
-        "Application Deployment"
-    ]
-
-    goal = "Build intelligent and scalable real-world systems"
-```
-
-I'm an **MCA student and Python developer** who enjoys exploring how technology can be used to solve real-world problems.
-
-My journey currently sits at the intersection of:
-
-**🤖 Artificial Intelligence + ☁️ Cloud + 🐍 Python + 📊 Data**
-
-I like experimenting with new technologies, building projects, understanding how systems work behind the scenes, and continuously expanding my technical skill set.
-
----
-
-# ⚡ Tech Universe
-
-### 🐍 Programming
+### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🌐 Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 📊 Data & AI
+### 📊 Data & Python Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-**Pandas • NumPy • Data Analysis • Data Cleaning • Data Validation • Python Automation**
-
-### 🛠️ Developer Tools
+### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-# 🤖 AI × ☁️ Cloud — Where I'm Heading
+## 🤖 AI & Data Interests
 
-I'm particularly interested in building systems where **AI meets scalable cloud infrastructure**.
+I'm currently exploring the intersection of **Artificial Intelligence, Data, Backend Systems, and Cloud Computing**.
 
-```text
-                 ┌──────────────────┐
-                 │   REAL PROBLEM   │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │   DATA / INPUT   │
-                 └────────┬─────────┘
-                          ↓
-             ┌────────────────────────┐
-             │     PYTHON / AI        │
-             │   Processing & Logic   │
-             └───────────┬────────────┘
-                         ↓
-             ┌────────────────────────┐
-             │       REST API         │
-             └───────────┬────────────┘
-                         ↓
-             ┌────────────────────────┐
-             │     ☁️ CLOUD            │
-             │ Deployment & Scaling   │
-             └───────────┬────────────┘
-                         ↓
-                 ┌──────────────────┐
-                 │  REAL SOLUTION   │
-                 └──────────────────┘
-```
+Areas I'm particularly interested in:
 
-### 🔭 Areas I'm Exploring
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* ☁️ Cloud Computing
-* 🐍 Advanced Python
-* 🔌 REST APIs & AI APIs
-* 📊 Data Engineering
-* ⚙️ Automation
-* 🐳 Containerization
-* 🚀 Cloud Deployment
-* 🔄 Data Pipelines
-* 🏗️ Scalable Backend Systems
+* 🤖 AI-powered applications
+* 🧠 AI-driven decision systems
+* 📊 Data analysis and visualization
+* 🧹 Data cleaning and validation
+* ⚙️ Python automation
+* 🔌 AI & REST API integration
+* ☁️ Cloud-based application deployment
+* 📦 Scalable backend systems
+* 🔄 Data processing pipelines
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Featured Project
 
-## 🎓 College Resource Sharing Application
+### 🎓 College Resource Sharing Application
 
-**Python • SQL • HTML • CSS • JavaScript**
+**Tech:** Python • SQL • HTML • CSS • JavaScript
 
-A platform designed to help students upload, organize, and access academic resources efficiently.
+A web-based platform designed to help students **upload, organize, and access academic resources efficiently**.
 
-### ⚙️ Built With
-
-```text
-Frontend     → HTML + CSS + JavaScript
-Backend      → Python
-Database     → SQL
-Architecture → Web Application
-```
-
-### 🔥 Highlights
+### Key Features
 
 * 🔐 User authentication
 * 📁 Academic resource management
 * ➕ CRUD operations
 * 🗄️ SQL database integration
-* 🎨 Responsive interface
-* ⚙️ Python backend
+* 🎨 Responsive web interface
+* ⚙️ Python-based backend
+
+> This project helped me strengthen my understanding of backend development, databases, authentication, and building practical solutions for real-world problems.
 
 ---
 
-# 🧪 What I'm Building Next
+## 💼 Experience
 
-My upcoming projects are focused on moving from traditional applications toward **AI-powered and cloud-ready systems**.
+### Python Developer Intern — Elevate Labs
 
-```text
-🐍 Python Applications
-        ↓
-🤖 AI Integration
-        ↓
-🔌 Intelligent APIs
-        ↓
-🐳 Containerization
-        ↓
-☁️ Cloud Deployment
-        ↓
-📈 Scalable AI Systems
-```
+**Sep 2025 – Nov 2025**
 
----
+During my internship, I worked on:
 
-# 💼 Experience
+* Developing Python automation scripts
+* Working with SQL and SQLite databases
+* Querying and processing structured data
+* Debugging and testing applications
+* Improving application reliability
+* Writing technical documentation
+* Collaborating with team members to solve technical challenges
 
-### 🐍 Python Developer Intern — Elevate Labs
-
-**September 2025 – November 2025**
-
-During my internship, I worked with:
-
-* Python automation
-* SQL & SQLite
-* Data processing
-* Debugging
-* Application testing
-* Technical documentation
-* Problem solving
-* Team collaboration
-
-🏆 **Best Performer** for consistency, problem-solving, and quality of work.
+🏆 **Best Performer** — recognized for consistency, problem-solving, and quality of work.
 
 ---
 
-# 🎓 Education
+## 📚 Education
 
-### 🎓 Master of Computer Applications
+### 🎓 Master of Computer Applications (MCA)
 
-**Sapthagiri NPS University — Bangalore**
+**Sapthagiri NPS University, Bangalore**
+2025 – 2027 | **CGPA: 8.7**
 
-`2025 – 2027` | **CGPA: 8.7**
+### 🎓 Bachelor of Computer Applications (BCA)
 
-### 🎓 Bachelor of Computer Applications
-
-**B.S. Channabasappa First Grade College — Davangere**
-
-`2022 – 2025` | **CGPA: 8.0**
+**B.S. Channabasappa First Grade College, Davangere**
+2022 – 2025 | **CGPA: 8.0**
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 * 🐍 Python Developer Internship — Elevate Labs
 * 📊 Data Analytics Job Simulation — Deloitte
@@ -243,97 +181,59 @@ During my internship, I worked with:
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chidanand512&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidanand512&layout=compact&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chidanand512&hide_border=true" />
-</p>
-
----
-
-# 🧠 My Developer Mindset
+## 🌱 Currently Learning
 
 ```text
-Curiosity      → Explore new technologies
-Learning       → Understand how things work
-Experimenting  → Build small prototypes
-Problem Solving→ Turn ideas into solutions
-Building       → Create real projects
-Deployment     → Take projects beyond localhost
-Improvement    → Keep learning
+☁️ Cloud Computing
+🤖 Artificial Intelligence
+🐍 Advanced Python
+📊 Data Engineering
+🔌 API Development
+🚀 Application Deployment
+🧠 Machine Learning
 ```
 
-> 💡 **I don't want to just use technology. I want to understand it, build with it, and eventually engineer solutions around it.**
+I'm continuously working on projects to bridge the gap between **software development, AI, data, and cloud technologies**.
 
 ---
 
-# 🎯 2026 Learning Roadmap
+## 🎯 2026 Goals
 
-### Phase 01 — Strong Foundations
-
-* [x] Python
-* [x] SQL
-* [x] Git & GitHub
-* [x] Backend Fundamentals
-* [x] REST APIs
-
-### Phase 02 — AI Engineering
-
-* [ ] Machine Learning
-* [ ] AI APIs
-* [ ] LLM Applications
-* [ ] RAG Systems
-* [ ] AI Agents
-* [ ] Model Integration
-
-### Phase 03 — Cloud Engineering
-
-* [ ] AWS / Azure
-* [ ] Linux
-* [ ] Docker
-* [ ] CI/CD
-* [ ] Cloud Databases
-* [ ] Cloud Deployment
-
-### Phase 04 — AI + Cloud
-
-* [ ] Deploy AI applications
-* [ ] Build scalable APIs
-* [ ] Create AI pipelines
-* [ ] Monitor applications
-* [ ] Build production-ready AI systems
+* [ ] Build production-ready AI applications
+* [ ] Strengthen Machine Learning fundamentals
+* [ ] Learn AWS / Azure cloud services
+* [ ] Deploy Python applications to the cloud
+* [ ] Build AI-powered APIs
+* [ ] Learn Docker & containerization
+* [ ] Develop data processing pipelines
+* [ ] Contribute to open-source projects
+* [ ] Build an AI + Cloud portfolio
 
 ---
 
-# 🌐 Let's Connect
+## 💡 My Philosophy
+
+> **Learn → Build → Deploy → Improve**
+
+I believe the best way to learn technology is by building real projects, solving real problems, and continuously improving the solution.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, AI enthusiasts, cloud engineers, recruiters, and people working on interesting technology projects.
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/chidanand-gowda-a15b0928b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/chidanand512">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/chidanand-gowda-a15b0928b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/chidanand512">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-### 🚀 BUILD • LEARN • EXPERIMENT • DEPLOY • REPEAT
-
-**Aspiring AI & Cloud Engineer**
-
-</p>
-
-<p align="center">
-  <i>"The best way to predict the future is to build it."</i>
+  <b>🚀 Aspiring AI & Cloud Engineer | Building Today for Tomorrow's Technology</b>
 </p>
