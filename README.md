@@ -231,7 +231,6 @@ Problem Solving→ Turn ideas into solutions
 Building       → Create real projects
 Deployment     → Take projects beyond localhost
 Improvement    → Keep learning
----
 ```
 
 > 💡 **I don't want to just use technology. I want to understand it, build with it, and eventually engineer solutions around it.**
